@@ -1,18 +1,17 @@
-# VPN IP Belgium — Dr VPN
+# VPN IP Belgium — Fast, Secure VPN for Belgium
 
-**VPN IP Belgium** is a fast, secure and free VPN for Android. Get a **Belgium IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Belgium** is a free, open-source, ad-free VPN app for Android, built for users in Belgium. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Belgium (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_be_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-belgium/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Belgium IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Belgium, Belgium VPN, VPN IP Belgium, Belgium IP address, free VPN Belgium, buy VPN Belgium, fast VPN Belgium, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Belgium, free VPN Belgium, fast VPN, VPN IP Belgium, Android VPN, unblock websites Belgium.</sub>
